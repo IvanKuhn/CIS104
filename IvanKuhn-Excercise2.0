@@ -1,0 +1,5 @@
+print ('Ivan Kuhn')
+print ('01/19/2021')
+print ('At what size of a project should you start using version management software?  Why?')
+print ('')
+print ("I would say that just about any project over 10 lines of code should use version control.  Version control is useful in so many different ways.  Not only does it give you the ability to look up previous versions, but it acts as a great backup should anything happen to your code.  This version control can be extraordinarily helpful in squashing bugs.  If your project works completely fine before a series of commits, but doesn't function after, version history can help you track down the location of the bug.  With online systems such as GitHub, you can even work on the same project seamlessly from multiple different computers, or even with a team of other users.  Another helpful feature of version control is the ability to create branches and experiment with code safely before merging it back to the master branch.  While version control can be an amazing tool for a group of programmers to all work on the same project, the usefulness of this backup and history is essential to a project of any size.")
